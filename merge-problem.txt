@@ -4,4 +4,8 @@ Software Carpentry's mission is to help scientists and engineers get more resear
 with less pain by teaching them basic lab skills for scientific computing.
 
 
+This hands-on workshop will cover basic concepts and tools, including program design in R, 
+version control with git, data management with SQL, and task automation using the shell. Hopefully this will be enough to get you started. 
+
+
 Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
